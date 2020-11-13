@@ -5,6 +5,10 @@ const App = () => {
   return (
     <>
       <p>I am learning React. My life is getting better. </p>
+      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
+      <p data-ns-test="project-description">
+        Track progress of tv series of different platforms at a single place.{" "}
+      </p>
     </>
   );
 };
