@@ -4,30 +4,10 @@ import "../styles/App.css";
 const App = () => {
   return (
     <>
-      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
-      <p data-ns-test="project-description">
-        Track progress of tv series of different platforms at a single place.{" "}
-      </p>
-
-      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
-      <p data-ns-test="project-description">
-        Track progress of tv series of different platforms at a single place.{" "}
-      </p>
-
-      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
-      <p data-ns-test="project-description">
-        Track progress of tv series of different platforms at a single place.{" "}
-      </p>
-
-      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
-      <p data-ns-test="project-description">
-        Track progress of tv series of different platforms at a single place.{" "}
-      </p>
-
-      <p data-ns-test="project-name">Tv Series Tracker Application. </p>
-      <p data-ns-test="project-description">
-        Track progress of tv series of different platforms at a single place.{" "}
-      </p>
+      <div data-ns-test="project-name">Tv Series Tracker Application. </div>
+      <div data-ns-test="project-description">
+        Track progress of tv series of different platforms at a single place.
+      </div>
     </>
   );
 };
