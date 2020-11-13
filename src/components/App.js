@@ -4,10 +4,10 @@ import "../styles/App.css";
 const App = () => {
   return (
     <>
-      <div data-ns-test="project-name">Tv Series Tracker Application. </div>
-      <div data-ns-test="project-name">
+      <h1 data-ns-test="project-name">Tv Series Tracker Application. </h1>
+      <p data-ns-test="project-description">
         Track progress of tv series of different platforms at a single place.
-      </div>
+      </p>
     </>
   );
 };
